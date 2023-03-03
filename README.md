@@ -7,7 +7,11 @@ Tech Stack Used:
 • HTML
 • CSS
 
-Demo Screenshot :
+Demo: 
+https://sandhyarakhunde.github.io/Simple_Calculator/
+
+
+Screenshot :
 
 
 ![calculator](https://user-images.githubusercontent.com/84397275/221514502-559376b1-4992-4b41-a75b-f76317e018e5.png)
